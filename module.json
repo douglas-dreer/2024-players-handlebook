@@ -174,7 +174,7 @@
   ],
   "url": "https://foundryvtt.com/packages/dnd-players-handbook",
   "manifest": "https://github.com/foundryvtt/foundryvtt-premium-content/raw/main/dnd-players-handbook/module.json",
-  "download": "https://github.com/foundryvtt/foundryvtt-premium-content/releases/download/dnd-players-handbook-1.0.0/dnd-players-handbook.zip",
+  "download": "https://github.com/foundryvtt/foundryvtt-premium-content/releases/download/dnd-players-handbook-v1.0.0/dnd-players-handbook.zip"
   "protected": false,
   "changelog": "https://github.com/foundryvtt/foundryvtt-premium-content/discussions?discussions_q=label%3Adnd-players-handbook",
   "flags": {
